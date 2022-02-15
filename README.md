@@ -9,11 +9,15 @@ To run this project locally, follow these steps.
 
 Clone the project locally, change into the directory, and install the dependencie.
 Start the local Hardhat node
+
 ``` npx hardhat node```
 
 Deploy the contracts to the local network in a separate terminal window
+
 ``` npx hardhat run scripts/deploy.js --network localhost```
+
 Start the app
+
 ``` npm run dev```
 
 # Configuration
