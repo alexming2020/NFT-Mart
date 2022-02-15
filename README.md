@@ -20,7 +20,7 @@ Start the app
 
 ``` npm run dev```
 
-# Configuration
+# deploy
 To deploy to Polygon test or main networks, update the configurations located in hardhat.config.js
 If using Infura, update .infuraid with your Infura project ID.
 
