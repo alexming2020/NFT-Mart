@@ -1,6 +1,6 @@
 # NFT martketplace Project
 
-This project demonstrates a basic Hardhat use case. It comes with a NFTcontract, a test for that contract, a script that deploys that contract.
+This project is built for a NFT martketplace project. It comes with a NFTcontract, a test for that contract, a script that deploys that contract.
 
 
 
